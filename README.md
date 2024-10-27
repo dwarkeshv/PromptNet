@@ -1,5 +1,3 @@
-.# PromptNet
-
 # PromptNet Product Recommender
 
 A .NET console application that leverages OpenAI's GPT-3.5 API to provide intelligent product recommendations based on user-specified categories.
